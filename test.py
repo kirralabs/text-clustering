@@ -22,7 +22,7 @@ from sklearn.externals import joblib
 from sklearn.cluster import KMeans
 from sklearn.metrics.pairwise import cosine_similarity
 
-import os  # for os.path.basename
+import os, glob  # for os.path.basename
 
 import matplotlib.pyplot as plt
 import matplotlib as mpl
