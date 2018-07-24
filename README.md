@@ -27,4 +27,11 @@ http://brandonrose.org/clustering
 1. topic modeling using Latent Dirichlet Allocation (LDA)
 
 
-## Library
+## How to use 
+
+1. download the new (kompas and tempo) extract to folder "data"
+1. create virtualenvironment python >>> $ virtualenv env
+3. activate virtualenvironment >>> source env/bin/activate
+4. install all depedencies >>> pip install -r requirements.txt
+5. run jupiter >>> jupyter notebook
+6. open file "Clustering.ipynb"
