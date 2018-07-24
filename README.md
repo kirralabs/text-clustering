@@ -1,8 +1,10 @@
 # Learning Clustering BahasaIndonesia Language
 
-## Source Code
+## Code
 
-http://brandonrose.org/clustering
+source: http://brandonrose.org/clustering
+modified by : kirra
+
 
 ## Data sources
 
@@ -35,3 +37,7 @@ http://brandonrose.org/clustering
 4. install all depedencies >>> pip install -r requirements.txt
 5. run jupiter >>> jupyter notebook
 6. open file "Clustering.ipynb"
+
+
+## Example visualize
+![alt text](https://github.com/kirralabs/text-clustering/blob/master/images/ward_clusters.png)
