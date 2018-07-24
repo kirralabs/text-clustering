@@ -39,5 +39,5 @@ modified by : kirra
 6. open file "Clustering.ipynb"
 
 
-## Example visualize
+## Example visualization
 ![alt text](https://github.com/kirralabs/text-clustering/blob/master/images/ward_clusters.png)
