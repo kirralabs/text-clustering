@@ -1,4 +1,4 @@
-# Learning Clustering ()BahasaIndonesia)
+# Learning Clustering (BahasaIndonesia)
 
 ## Code
 
@@ -40,4 +40,8 @@ modified by : kirra
 
 
 ## Example visualization
-![alt text](https://github.com/kirralabs/text-clustering/blob/master/images/ward_clusters.png)
+![alt text](images/ward_clusters.png)
+
+![alt text](images/dashboard1.png)
+
+![alt text](images/dashboard2.png)
