@@ -40,11 +40,11 @@ modified by : kirra
 
 
 ## Example visualization
-![alt text](images/ward_clusters.png)
+![alt text](images/d3.png)
 
-![alt text](images/dashboard1.png)
+![alt text](images/d1.png)
 
-![alt text](images/dashboard2.png)
+![alt text](images/d2.png)
 
 ### Source for vosualization
 1. http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
