@@ -45,3 +45,10 @@ modified by : kirra
 ![alt text](images/dashboard1.png)
 
 ![alt text](images/dashboard2.png)
+
+### Source for vosualization
+1. http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
+1. http://bl.ocks.org/lmatteis/efd9be8f472e673eef6ce9d1951256a9
+1. https://bl.ocks.org/bricedev/8b2da06ddef27d94cde9
+1. https://bl.ocks.org/jyucsiro/767539a876836e920e38bc80d2031ba7
+1. https://bl.ocks.org/emeeks/df6ea0128724289337ef
